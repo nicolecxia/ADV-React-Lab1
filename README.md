@@ -1,7 +1,9 @@
 # ADV-React-Lab1
 
 Instructions
+
 TASKS: ToDo App
+
 For this lab, you need to do the following:
 
 1:(3 POINTS) Add a task with Title and Status. When a new task is added, the status will be 'due/false' as default. The possible statuses are 'due/false' or 'done/true'.
